@@ -10,6 +10,7 @@
   "author": "Luis Santiago <luissantiagodev@gmail.com> (https://twitter.com/Fercode7)",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "mongoose": "^4.11.6"
